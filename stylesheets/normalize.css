@@ -142,7 +142,7 @@ h1 {
  */
 
 mark {
-  background: #F2D4C9;
+  background: #F2D4C;
   color: #000;
 }
 
@@ -254,7 +254,7 @@ input,
 optgroup,
 select,
 textarea {
-  color: inherit; /* 1 */
+  color:#BFA5A9 ; /* 1 */
   font: inherit; /* 2 */
   margin: 0; /* 3 */
 }
